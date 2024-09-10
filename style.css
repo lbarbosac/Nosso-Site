@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --azul:#0044AC; 
+    --vermelho:#FF0122;
+    --laranja:#FFA100;
+    --roxo:#A020F0;
+    --rosa:#FF69B4;
+    --clarinho:#F1F1F1;
+    --verde:#90EE90;
+    --verde2:#9ACD32;
+}
