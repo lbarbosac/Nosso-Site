@@ -31,3 +31,13 @@ header .menu {
     background-color: #000;
     margin-top: 200px;
 }
+
+.menu ul li {
+    display: inline-block;
+    color: #FFFFFF;
+}
+
+.divisao {
+    font-size: 20px;
+    margin-top: 10px;
+}
