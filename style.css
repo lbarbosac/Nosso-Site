@@ -11,14 +11,6 @@ body {
     color: #333;
 }
 
-
-header {
-    background-color: #c7680fe8; 
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
 h1 {
     font-size: 2.5em;
 }
@@ -27,36 +19,6 @@ h1 {
 .layout {
     display: flex;
 }
-
-
-.sidebar {
-    background-color: #d38919; 
-    color: white;
-    padding: 20px;
-    width: 200px;
-    height: 100vh;
-    position:absolute;
-}
-
-.sidebar ul {
-    list-style: none;
-    padding: 0;
-}
-
-.sidebar ul li {
-    margin-bottom: 15px;
-}
-
-.sidebar ul li a {
-    color: white;
-    text-decoration: none;
-    font-size: 1.2em;
-}
-
-.sidebar ul li a:hover {
-    text-decoration: underline;
-}
-
 
 .container {
     margin-left: 220px; 
@@ -68,7 +30,7 @@ h1 {
 
 
 .box {
-    background-color: #ce6b0e; 
+    background-color: #00f; 
     color: white;
     padding: 20px;
     margin: 20px;
@@ -108,7 +70,7 @@ p {
 
 
 footer {
-    background-color: #d35400;
+    background-color: #2e219b;
     color: white;
     text-align: center;
     padding: 15px;
