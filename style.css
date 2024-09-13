@@ -14,3 +14,48 @@
     --verde:#90EE90;
     --verde2:#9ACD32;
 }
+
+aside {
+    background-color: #00f;
+    height: 650px;
+    width: 300px;
+}
+
+input {
+    margin-left:60px;
+    margin-top: 20px;
+    background-color: #CDCDCD;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.titulo-caixa h1 {
+    background-color: #505050;
+    color: #ffffff;
+    width: 80%;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+    color: #00F;
+}
+
+.lista-estudo {
+    background-color: #cccccc;
+    width: 80%;
+    margin-left: 25px;  
+}
+
+.janela {
+    background-color: #F1F1F1;
+    width: 105px;
+    height: 105px;
+    display: block;
+    margin-left: 25px;
+    margin-top: 20px;
+    float: left;
+}
