@@ -1,16 +1,35 @@
-* {
-    font-family: Arial, Helvetica, sans-serif;
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
     margin: 0;
-    padding: 0;
+    padding: 20px;
 }
 
-:root {
-    --azul:#0044AC; 
-    --vermelho:#FF0122;
-    --laranja:#FFA100;
-    --roxo:#A020F0;
-    --rosa:#FF69B4;
-    --clarinho:#F1F1F1;
-    --verde:#90EE90;
-    --verde2:#9ACD32;
+header h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+main p {
+    color: #34495e;
+    font-size: 1.2em;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 2em;
+    }
+
+    main p {
+        font-size: 1.1em;
+    }
 }
