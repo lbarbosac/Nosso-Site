@@ -35,6 +35,7 @@ header .menu {
 .menu ul li {
     display: inline-block;
     color: #FFFFFF;
+    margin: 10px;
 }
 
 .divisao {
