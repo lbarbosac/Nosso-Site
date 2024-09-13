@@ -13,7 +13,7 @@ body {
 
 
 header {
-    background-color: #d35400; 
+    background-color: #c7680fe8; 
     color: white;
     padding: 20px;
     text-align: center;
@@ -30,12 +30,12 @@ h1 {
 
 
 .sidebar {
-    background-color: #e74c3c; 
+    background-color: #d38919; 
     color: white;
     padding: 20px;
     width: 200px;
     height: 100vh;
-    position: fixed;
+    position:absolute;
 }
 
 .sidebar ul {
@@ -63,12 +63,12 @@ h1 {
     padding: 40px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    
 }
 
 
 .box {
-    background-color: #e74c3c; 
+    background-color: #ce6b0e; 
     color: white;
     padding: 20px;
     margin: 20px;
