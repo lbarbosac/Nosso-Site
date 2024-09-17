@@ -49,9 +49,6 @@ h1 {
     color: #ffff;
 }
 
-.box:hover {
-    transform: scale(1.05);
-}
 
 h2 {
     font-size: 1.8em;
@@ -79,10 +76,15 @@ p {
 }
 
 
-footer {
-    background-color: #2e219b;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    margin-top: 40px;
+
+.box3{ width: 400px;
+    height: 800px;
+    background-color: #00f;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color: #ffff;
+
+
+
 }
