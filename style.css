@@ -158,3 +158,62 @@ header .menu .divisao {
     font-size: 20px;
     margin-top: 10px;
 }
+
+aside {
+    background-color: #00f;
+    height: 500px;
+    width: 300px;
+    border: solid 2px black;
+    border-radius: 5px;
+}
+
+input {
+    margin-left:60px;
+    margin-top: 20px;
+    background-color: #CDCDCD;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.titulo-caixa h1 {
+    background-color: #61616100;
+    color: #ffffff;
+    width: 80%;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 20px; 
+    padding: 5px;
+    
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+    color: #00F;
+    color: #ffffff;
+}
+
+.lista-estudo {
+    background-color: #00F;
+    color: #ffffff;
+    width: 80%;
+    margin-left: 25px;  
+    height: 100px; 
+    padding: 5px;
+}
+
+.janela {
+    background-color: #F1F1F1;
+    width: 105px;
+    height: 105px;
+    display: block;
+    margin-left: 25px;
+    margin-top: 20px;
+    float: left;
+}
+
+.janela img {
+    width: 105px;
+    height: 105px;
+}
+
