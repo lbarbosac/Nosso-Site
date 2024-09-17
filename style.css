@@ -35,7 +35,8 @@ h1 {
     margin-right: 100px;
     width:400px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 8, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 255, 0.5);
+    border: solid black 2px;
 }
 .box4 {
     background-color: #00f; 
@@ -46,6 +47,7 @@ h1 {
     width:400px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 8, 0.1);
+    border: solid black 2px;
 }
 .box1 {
     width: 800px;
@@ -55,6 +57,7 @@ h1 {
     margin: 5px;
     border-radius: 10px;
     color: #ffff;
+    border: solid black 2px;
 }
 
 
