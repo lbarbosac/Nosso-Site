@@ -33,18 +33,29 @@ h1 {
     background-color: #00f; 
     color: white;
     padding: 20px;
-    margin: 20px;
+    margin: 5px;
+    margin-right: 100px;
     width:400px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 8, 0.1);
 }
-
+.box4 {
+    background-color: #00f; 
+    color: white;
+    padding: 20px;
+    margin: 5px;
+    margin-left: -80px;
+    width:400px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 8, 0.1);
+}
 .box1 {
-    width: 850px;
+    width: 800px;
     height: 200px;
     background-color: #00f;
     padding: 20px;
-    margin: 20px;
+    margin: 5px;
+    margin-right: 100px;
     border-radius: 10px;
     color: #ffff;
 }
@@ -84,7 +95,7 @@ p {
     margin: 20px;
     border-radius: 10px;
     color: #ffff;
-
+    margin-left: 500px;
 
 
 }
