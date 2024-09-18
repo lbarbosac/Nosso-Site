@@ -60,7 +60,6 @@ h1 {
     border: solid black 2px;
 }
 
-
 h2 {
     font-size: 1.8em;
     margin-bottom: 15px;
@@ -86,8 +85,6 @@ p {
     font-size: 1.1em;
 }
 
-
-
 .box3{ width: 400px;
     height: 800px;
     background-color: #00f;
@@ -98,4 +95,5 @@ p {
     margin-left: 500px;
 
 
+>>>>>>>>> Temporary merge branch 2
 }
