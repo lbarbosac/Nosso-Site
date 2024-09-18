@@ -45,6 +45,7 @@ p {
     line-height: 1.6;
 }
 
+<<<<<<< HEAD
 header {
     display: flex;
     width: 100%;
@@ -239,3 +240,21 @@ footer {
     border-radius: 3px;
 }
 
+.formula {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+.box3{ width: 400px;
+    height: 800px;
+    background-color: #00f;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    color: #ffff;
+    margin-left: 500px;
+}
