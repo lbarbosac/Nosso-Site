@@ -75,7 +75,7 @@ header .menu {
     display: inline-block;
     color: #FFFFFF;
     margin: 3px;
-    margin-left: 23px;
+    margin-left: 20px;
     font-size: 18px;
     -webkit-text-stroke-width: 0.5px; 
     -webkit-text-stroke-color: #181616;
@@ -91,6 +91,8 @@ header .menu .divisao {
 header .menu .divisao {
     font-size: 20px;
     margin-top: 10px;
+    margin-left: 4px;
+    margin-right: 0;
 }
 
 aside {
