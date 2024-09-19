@@ -1,0 +1,1 @@
+alert ("Não gostamos de matemática, mas do professor adoramos!")
